@@ -1,4 +1,5 @@
 test_servers/
+screenshot*
 
 # Windows image file caches
 Thumbs.db
