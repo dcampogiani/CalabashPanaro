@@ -1,3 +1,4 @@
+[‎10/‎1/‎2015 4:46 PM] Campogiani Daniele: 
 # CalabashPanaro
 
 
@@ -12,6 +13,13 @@
 - Run ruby dk.rb install
 - gem install calabash-android
 
+##Resign apk
+calabash-android **resign** app.apk
 
 ##Run Test
-calabash-android run app.apk
+calabash-android **run** app.apk
+
+##Generate HTML report
+calabash-android **run** app.apk *--format* html *--out* reports.html
+
+![screenshot](http://i.imgur.com/TllZIJy.png)
