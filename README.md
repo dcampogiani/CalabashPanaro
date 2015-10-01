@@ -1,6 +1,6 @@
-[‎10/‎1/‎2015 4:46 PM] Campogiani Daniele: 
 # CalabashPanaro
 
+Simple test project
 
 ##Setup
 - Remove any installation of Ruby > 2.0
